@@ -586,6 +586,17 @@ dependencies = [
 ]
 
 [[package]]
+name = "poc3"
+version = "0.1.0"
+dependencies = [
+ "csv",
+ "linfa",
+ "linfa-logistic",
+ "ndarray",
+ "ndarray-csv",
+]
+
+[[package]]
 name = "ppv-lite86"
 version = "0.2.16"
 source = "registry+https://github.com/rust-lang/crates.io-index"

@@ -1,5 +1,6 @@
 [workspace]
 
 members = [
-    "poc2",
+    "poc2-logistic-regression",
+    "poc3-multi-logistic-regression",
 ]
